@@ -1,4 +1,3 @@
-randeo
-======
+#Randeo
 
-weird and really bad youtube videos that are somehow funny
+Horrible random videos that make you want to question humanity.
