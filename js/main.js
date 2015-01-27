@@ -1383,6 +1383,14 @@ var videos = [
     showControls: false,
     stopMovieOnBlur: false
   },
+  // coco magic school bus
+  {
+    videoURL: "_8kCaz74M7A",
+    containment: 'self',
+    mute: false,
+    showControls: false,
+    stopMovieOnBlur: false
+  },
   // Gaben remixed
   {
     videoURL: "mSr2FgbvUkE",
