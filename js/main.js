@@ -1391,6 +1391,14 @@ var videos = [
     showControls: false,
     stopMovieOnBlur: false
   },
+  // anus writes a letter
+  {
+    videoURL: "VYz1yVg9L_I",
+    containment: 'self',
+    mute: false,
+    showControls: false,
+    stopMovieOnBlur: false
+  },
   // Gaben remixed
   {
     videoURL: "mSr2FgbvUkE",
