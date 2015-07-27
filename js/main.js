@@ -1,3 +1,8 @@
+// ==ClosureCompiler==
+// @output_file_name default.js
+// @compilation_level SIMPLE_OPTIMIZATIONS
+// ==/ClosureCompiler==
+
 var videos = [
   // MLG door tutorial
   {
@@ -1418,8 +1423,8 @@ video.on("YTPData", function(e){
     $('#url').html("http://youtu.be/" + e.prop.id);
 });
 
-function play(boolean) {
-  if (boolean) {
+function play(toggle) {
+  if (toggle) {
     $('.player').YTPPause();
     $('#play').attr("onclick", "play(false)");
     document.getElementById('play').innerHTML = "Play";
