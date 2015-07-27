@@ -1409,7 +1409,7 @@ var videos = [
   }
 ];
 
-$.mbYTPlayer.apiKey = "AIzaSyBqh9H3prYOQFbpeoWbkPKsq25n7y3LnCo";
+jQuery.mbYTPlayer.apiKey = "AIzaSyBqh9H3prYOQFbpeoWbkPKsq25n7y3LnCo";
 $(".player").YTPlaylist(videos, true);
 var video = $(".player").YTPlayer();
 video.on("YTPData", function(e){
