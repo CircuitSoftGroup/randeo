@@ -1409,6 +1409,23 @@ var videos = [
   }
 ];
 
-$(function () {
-  $(".player").YTPlaylist(videos, true);
+$.mbYTPlayer.apiKey = "AIzaSyBqh9H3prYOQFbpeoWbkPKsq25n7y3LnCo";
+$(".player").YTPlaylist(videos, true);
+var video = $(".player").YTPlayer();
+video.on("YTPData", function(e){
+    $('#title').html(e.prop.title);
+    $('#thumb').attr("src", e.prop.thumb_medium);
+    $('#url').html("http://youtu.be/" + e.prop.id);
 });
+
+function play(boolean) {
+  if (boolean) {
+    $('.player').YTPPause();
+    $('#play').attr("onclick", "play(false)");
+    document.getElementById('play').innerHTML = "Play";
+  } else {
+    $('.player').YTPPlay();
+    $('#play').attr("onclick", "play(true)");
+    document.getElementById('play').innerHTML = "Pause";
+  }
+}

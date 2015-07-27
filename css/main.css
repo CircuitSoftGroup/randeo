@@ -37,3 +37,9 @@ body, html, .cont {
 #next {
     right: 20px
 }
+#thumb {
+  width: 96px;
+}
+.media {
+  padding-left: 5px;
+}
