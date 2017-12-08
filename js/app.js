@@ -711,6 +711,10 @@ function app() {
   videos.forEach(element => {
     element.showControls = false;
     element.stopMovieOnBlur = false;
+    element.loop = false;
+    element.showYTLogo = false;
+    element.gaTrack = false;
+    element.vol = 100;
   });
 
   // YouTube API
