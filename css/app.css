@@ -61,7 +61,8 @@ body {
     background-color: rgb(255, 255, 255, 0.7);
     padding: 0 0 .5rem 0;
     max-height: 80vh;
-    overflow-y: auto
+    overflow-y: auto;
+    overflow-x: hidden
 }
 
 .dropdown-item:hover {
