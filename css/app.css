@@ -77,7 +77,9 @@ body {
 }
 
 .card-img-top {
-    margin-bottom: 0.5rem
+    margin-bottom: 0.5rem;
+    max-width: 320px;
+    max-height: 180px;
 }
 
 /* Icon */
