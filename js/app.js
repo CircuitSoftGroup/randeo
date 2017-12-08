@@ -3,707 +3,719 @@ function app() {
   var videos = [
     // MLG door tutorial
     {
-      videoURL: "pCNUfOnqrkk",
+      videoURL: "pCNUfOnqrkk"
     },
     // How to make thin hamster
     {
-      videoURL: "h-0HRs0FY2U",
+      videoURL: "h-0HRs0FY2U"
     },
     // Yet another horrible asian music video
     {
-      videoURL: "V4frlMI3EjM",
+      videoURL: "V4frlMI3EjM"
     },
     // la zoubida
     {
-      videoURL: "54YE868-LLw",
+      videoURL: "54YE868-LLw"
     },
     // windmill exe
     {
-      videoURL: "Pq9ncVyOuaM",
+      videoURL: "Pq9ncVyOuaM"
     },
     // lime exe
     {
-      videoURL: "Vos7Dw9ZY9s",
+      videoURL: "Vos7Dw9ZY9s"
     },
     // warm it up exe Thats a 10!
     {
-      videoURL: "JbepN4dKLbU",
+      videoURL: "JbepN4dKLbU"
     },
     // Spodermen joins illuminati
     {
-      videoURL: "CzwGcARRVok",
+      videoURL: "CzwGcARRVok"
     },
     // Have you ever had a dream like this
     {
-      videoURL: "G7RgN9ijwE4",
+      videoURL: "G7RgN9ijwE4"
     },
     // 20th century fox French Horn
     {
-      videoURL: "Kn92KkOxD7I",
+      videoURL: "Kn92KkOxD7I"
     },
     // Apple gets rekt
     {
-      videoURL: "D0vzOwHVRI8",
+      videoURL: "D0vzOwHVRI8"
     },
     // ( ͡° ͜ʖ ͡°)
     {
-      videoURL: "PFpJNx_p9tU",
+      videoURL: "PFpJNx_p9tU"
     },
     // Das Beer Boot
     {
-      videoURL: "zuDtACzKGRs",
+      videoURL: "zuDtACzKGRs"
     },
     // How to pronounce ( ͡° ͜ʖ ͡°)
     {
-      videoURL: "wGlBwW7f5HA",
+      videoURL: "wGlBwW7f5HA"
     },
     // Swiggity Swooty
     {
-      videoURL: "BKBLf-crl0Y",
+      videoURL: "BKBLf-crl0Y"
     },
     // Fresh ( ͡° ͜ʖ ͡°) of /b/el Air
     {
-      videoURL: "5gDz_VwOHR0",
+      videoURL: "5gDz_VwOHR0"
     },
     // Swiggity Swag
     {
-      videoURL: "DMpYQCd9z3Q",
+      videoURL: "DMpYQCd9z3Q"
     },
     // what Da (bleep) happend
     {
-      videoURL: "vZcDjcaSHvc",
+      videoURL: "vZcDjcaSHvc"
     },
     // Nigga Nigga Nigga (Uncensored)
     {
-      videoURL: "X2-qB-HvjHE",
+      videoURL: "X2-qB-HvjHE"
     },
     // 25 years of Simpsons couch gags
     {
-      videoURL: "isFooVmbjcg",
+      videoURL: "isFooVmbjcg"
     },
     // MLG binshot
     {
-      videoURL: "ZZAzodqwZ9k",
+      videoURL: "ZZAzodqwZ9k"
     },
     // Heyeeyeyeeayaeayeayaeayeayeyeayayeyaey full version
     {
-      videoURL: "nrAgK0S9hx4",
+      videoURL: "nrAgK0S9hx4"
     },
     // Donald Duck der Nazi
     {
-      videoURL: "kzH1iaKVsBM",
+      videoURL: "kzH1iaKVsBM"
     },
     // El perro chacharron y sus amigos
     {
-      videoURL: "9TPA-1rUgV0",
+      videoURL: "9TPA-1rUgV0"
     },
     // Navy Seal Copypasta Musical
     {
-      videoURL: "NsZMbs5PC64",
+      videoURL: "NsZMbs5PC64"
     },
     // im a star.
     {
-      videoURL: "iWKWGpghrBo",
+      videoURL: "iWKWGpghrBo"
     },
     // Tails' new device 9
     {
-      videoURL: "KV_wq-aoRwc",
+      videoURL: "KV_wq-aoRwc"
     },
     // Tony Abott thinks the earth is flat
     {
-      videoURL: "-bonjn5_ieI",
+      videoURL: "-bonjn5_ieI"
     },
     // Windows 9 concept
     {
-      videoURL: "h4mn6fkHDBM",
+      videoURL: "h4mn6fkHDBM"
     },
     // Lakupiippu
     {
-      videoURL: "_5fQZhv0poU",
+      videoURL: "_5fQZhv0poU"
     },
     // Bush 2004 state of the union remix
     {
-      videoURL: "Z02ibHJRvzY",
+      videoURL: "Z02ibHJRvzY"
     },
     // Soccer- america's path to socialism
     {
-      videoURL: "yBkbj_S3etY",
+      videoURL: "yBkbj_S3etY"
     },
     // Adweedture time with Snoop and Dogg
     {
-      videoURL: "sifVwz5Nguc",
+      videoURL: "sifVwz5Nguc"
     },
     // Nichijoint- my ordinary weed
     {
-      videoURL: "o2TO5atI4rU",
+      videoURL: "o2TO5atI4rU"
     },
     // Chicken nugger
     {
-      videoURL: "eb1vcaqAivY",
+      videoURL: "eb1vcaqAivY"
     },
     // Rappin' for Jesus
     {
-      videoURL: "Kppx4bzfAaE",
+      videoURL: "Kppx4bzfAaE"
     },
     // Chad Warden the Science Guy
     {
-      videoURL: "_SMZDkQuf1Y",
+      videoURL: "_SMZDkQuf1Y"
     },
     // Weirdest video you will EVER see
     {
-      videoURL: "FbuluDBHpfQ",
+      videoURL: "FbuluDBHpfQ"
     },
     // Auditions
     {
-      videoURL: "4vSEzy7JzSA",
+      videoURL: "4vSEzy7JzSA"
     },
     // If TF2 ran on Windows 98
     {
-      videoURL: "4V2QSZtIgCI",
+      videoURL: "4V2QSZtIgCI"
     },
     // Hitting mug with toothbrush 5208 times
     {
-      videoURL: "kp6JwRd7_2c",
+      videoURL: "kp6JwRd7_2c"
     },
     // Waffle falling over
     {
-      videoURL: "sDj72zqZakE",
+      videoURL: "sDj72zqZakE"
     },
     // Rainbow Stalin
     {
-      videoURL: "Q7fc2cXRkVg",
+      videoURL: "Q7fc2cXRkVg"
     },
     // When I'm (͡° ͜ʖ ͡°)
     {
-      videoURL: "oC1xcadNj78",
+      videoURL: "oC1xcadNj78"
     },
     // Dora theme song backwards
     {
-      videoURL: "mIIlLX1rF3E",
+      videoURL: "mIIlLX1rF3E"
     },
     // Honeybadger
     {
-      videoURL: "4r7wHMg5Yjg",
+      videoURL: "4r7wHMg5Yjg"
     },
     // True facts about the duck
     {
-      videoURL: "6k01DIVDJlY",
+      videoURL: "6k01DIVDJlY"
     },
     // Pumkin, thy deliverer
     {
-      videoURL: "fdHsagpYyYo",
+      videoURL: "fdHsagpYyYo"
     },
     // John Oliver Brazil Candidates
     {
-      videoURL: "-n6hvPP06Rs",
+      videoURL: "-n6hvPP06Rs"
     },
     // Pumkin goes to E3 2012
     {
-      videoURL: "hPWXuMQomQU",
+      videoURL: "hPWXuMQomQU"
     },
     // Club penguin micspam
     {
-      videoURL: "MbNs5TWmGDY",
+      videoURL: "MbNs5TWmGDY"
     },
     // 6 04 2
     {
-      videoURL: "85w0L_qANAI",
+      videoURL: "85w0L_qANAI"
     },
     // Nintendo LEAKED
     {
-      videoURL: "BGL156fgSdU",
+      videoURL: "BGL156fgSdU"
     },
     // Never illegally download
     {
-      videoURL: "LZgeIReY04c",
+      videoURL: "LZgeIReY04c"
     },
     // Engineer's interesting day
     {
-      videoURL: "EHuNghO1Mok",
+      videoURL: "EHuNghO1Mok"
     },
     // For when someone posts a compressed image/uses Windows XP to save a jpeg...
     {
-      videoURL: "QEzhxP-pdos",
+      videoURL: "QEzhxP-pdos"
     },
     // WHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAT
     {
-      videoURL: "4wbPEdVLhcQ",
+      videoURL: "4wbPEdVLhcQ"
     },
     // Fortin' with Will
     {
-      videoURL: "m-m7mBSw-5k",
+      videoURL: "m-m7mBSw-5k"
     },
     // mcnuggies
     {
-      videoURL: "R3TV3U-9uvc",
+      videoURL: "R3TV3U-9uvc"
     },
     // Germinating evil
     {
-      videoURL: "6ITD1tqXDII",
+      videoURL: "6ITD1tqXDII"
     },
     // One direction recorder cover
     {
-      videoURL: "j60p8DSMQr0",
+      videoURL: "j60p8DSMQr0"
     },
     // State of the union only clapping
     {
-      videoURL: "PP9zGRIx7-0",
+      videoURL: "PP9zGRIx7-0"
     },
     // Muslim dancing on hardstyle
     {
-      videoURL: "Y5jBqo7yttk",
+      videoURL: "Y5jBqo7yttk"
     },
     // DEDOTATED WAM
     {
-      videoURL: "a4Gdj3L8fcs",
+      videoURL: "a4Gdj3L8fcs"
     },
     // Tunak Tunak Tun Daler Mehndi
     {
-      videoURL: "vTIIMJ9tUc8",
+      videoURL: "vTIIMJ9tUc8"
     },
     // Probably the worst music video
     {
-      videoURL: "vs1CA5hFdd4",
+      videoURL: "vs1CA5hFdd4"
     },
     // Ned Flander reads harry potter
     {
-      videoURL: "IFTR2JJcKUg",
+      videoURL: "IFTR2JJcKUg"
     },
     // FF2 Gaben Theme
     {
-      videoURL: "ZvmwOT8cbB4",
+      videoURL: "ZvmwOT8cbB4"
     },
     // Russian Sailors Dance igor
     {
-      videoURL: "DcQVv4j6p1o",
+      videoURL: "DcQVv4j6p1o"
     },
     // Derp Song 10 hours
     {
-      videoURL: "nQB4nAjZIdE",
+      videoURL: "nQB4nAjZIdE"
     },
     // Extreme PB-J
     {
-      videoURL: "S4YbC6OLAlo",
+      videoURL: "S4YbC6OLAlo"
     },
     // Bill Gates Pie
     {
-      videoURL: "nEeLKIw2kw4",
+      videoURL: "nEeLKIw2kw4"
     },
     // Kim Jong Un Impersonator
     {
-      videoURL: "TS7g1Mpl12o",
+      videoURL: "TS7g1Mpl12o"
     },
     // You could stop at 5 or 6 stores
     {
-      videoURL: "YCeQLeQiRP4",
+      videoURL: "YCeQLeQiRP4"
     },
     // What da heck come after 6
     {
-      videoURL: "r_Ua8iOR0g8",
+      videoURL: "r_Ua8iOR0g8"
     },
     // Bill gates funniest moments
     {
-      videoURL: "ABMVtWYRKVU",
+      videoURL: "ABMVtWYRKVU"
     },
     // DIDNT READ LOL
     {
-      videoURL: "5GgflscOmW8",
+      videoURL: "5GgflscOmW8"
     },
     // Colin Mochrie buys a pair of pants
     {
-      videoURL: "PZd9GGWhx2c",
+      videoURL: "PZd9GGWhx2c"
     },
     // Toyota Simulator
     {
-      videoURL: "1bkAxFIuie8",
+      videoURL: "1bkAxFIuie8"
     },
     // Binary animation
     {
-      videoURL: "HIJ21xXz_t4",
+      videoURL: "HIJ21xXz_t4"
     },
     // Heinz Automato 2
     {
-      videoURL: "JcniyQYFU6M",
+      videoURL: "JcniyQYFU6M"
     },
     // No homo scout
     {
-      videoURL: "M4A7H5-SBoM",
+      videoURL: "M4A7H5-SBoM"
     },
     // 1x1 rubrix cube
     {
-      videoURL: "RrTjfH0x4cQ",
+      videoURL: "RrTjfH0x4cQ"
     },
     // Putting toothbrush in lamp
     {
-      videoURL: "8VkDi3zgKlE",
+      videoURL: "8VkDi3zgKlE"
     },
     // How to pirate sony vegas
     {
-      videoURL: "mgU4k7fBznQ",
+      videoURL: "mgU4k7fBznQ"
     },
     // Home economics with morgan freeman
     {
-      videoURL: "nkypXnA7c-g",
+      videoURL: "nkypXnA7c-g"
     },
     // Hippo explosive diahoeria
     {
-      videoURL: "P1Flr7JhPow",
+      videoURL: "P1Flr7JhPow"
     },
     // Spanish inquisition
     {
-      videoURL: "5ZegQYgygdw",
+      videoURL: "5ZegQYgygdw"
     },
     // Ultimate nooooooooooo compilation
     {
-      videoURL: "Eal4fep7pK4",
+      videoURL: "Eal4fep7pK4"
     },
     // How to win an oscar
     {
-      videoURL: "bQWfonVpnCI",
+      videoURL: "bQWfonVpnCI"
     },
     // Ghetto dora the explorer vine
     {
-      videoURL: "42--wRPFIU4",
+      videoURL: "42--wRPFIU4"
     },
     // Birdemic
     {
-      videoURL: "LrxZblVUkMU",
+      videoURL: "LrxZblVUkMU"
     },
     // White people dancing to daft punk
     {
-      videoURL: "uHCDwMBbQyU",
+      videoURL: "uHCDwMBbQyU"
     },
     // Potato flew around my room before you came
     {
-      videoURL: "NY5-U7DHgyA",
+      videoURL: "NY5-U7DHgyA"
     },
     // Ultimate Z Server
     {
-      videoURL: "A22cLHhnhoI",
+      videoURL: "A22cLHhnhoI"
     },
     // Shingeki no gaben
     {
-      videoURL: "H32SIISkc-Y",
+      videoURL: "H32SIISkc-Y"
     },
     // Tuvan throat singing
     {
-      videoURL: "DY1pcEtHI_w",
+      videoURL: "DY1pcEtHI_w"
     },
     // A Neutron family christmas
     {
-      videoURL: "XPlSP6V8x5g",
+      videoURL: "XPlSP6V8x5g"
     },
     // Skyrim theme misheard lyrics
     {
-      videoURL: "7eqWyY2SKg4",
+      videoURL: "7eqWyY2SKg4"
     },
     // onion
     {
-      videoURL: "1Py_uDy3e18",
+      videoURL: "1Py_uDy3e18"
     },
     // Pizza time!
     {
-      videoURL: "GtgysDzZkBM",
+      videoURL: "GtgysDzZkBM"
     },
     // Microsoft heisenberg
     {
-      videoURL: "MzXdb2QX5rg",
+      videoURL: "MzXdb2QX5rg"
     },
     // I am the antipope zlad
     {
-      videoURL: "GGBHfXPqbgI",
+      videoURL: "GGBHfXPqbgI"
     },
     // Elektronik Supersonik
     {
-      videoURL: "lp_PIjc2ga4",
+      videoURL: "lp_PIjc2ga4"
     },
     // Sconses
     {
-      videoURL: "IjmmypgQ7JQ",
+      videoURL: "IjmmypgQ7JQ"
     },
     // Cheesy 80s opening
     {
-      videoURL: "LQ4RA2_tnk8",
+      videoURL: "LQ4RA2_tnk8"
     },
     // Jimmy Neutron Experience
     {
-      videoURL: "dNascU3bp7M",
+      videoURL: "dNascU3bp7M"
     },
     // Jimmy Neutron Happy Family Happy Hour
     {
-      videoURL: "LB871SVYMhI",
+      videoURL: "LB871SVYMhI"
     },
     // Marxist Lenonist
     {
-      videoURL: "I1qwKP7nY6Q",
+      videoURL: "I1qwKP7nY6Q"
     },
     // Banana Nose
     {
-      videoURL: "veiTQdl2bkU",
+      videoURL: "veiTQdl2bkU"
     },
     // Pumkin World 2
     {
-      videoURL: "-D0hqGuwiDY",
+      videoURL: "-D0hqGuwiDY"
     },
     // Pizza Kids
     {
-      videoURL: "CXerF6crDRs",
+      videoURL: "CXerF6crDRs"
     },
     // Snospis Eht
     {
-      videoURL: "X_65yuIx1-s",
+      videoURL: "X_65yuIx1-s"
     },
     // Tunnel snakes rule
     {
-      videoURL: "S0ximxe4XtU",
+      videoURL: "S0ximxe4XtU"
     },
     // Elmo takes cookie monster
     {
-      videoURL: "yohKEthwqgE",
+      videoURL: "yohKEthwqgE"
     },
     // Dramatic hampster
     {
-      videoURL: "qj8BKFqNhvE",
+      videoURL: "qj8BKFqNhvE"
     },
     // Funny horsie
     {
-      videoURL: "hiJZ8Bt_zqw",
+      videoURL: "hiJZ8Bt_zqw"
     },
     // Hair swallowing
     {
-      videoURL: "NX_vcjZmQ9w",
+      videoURL: "NX_vcjZmQ9w"
     },
     // eye of the spider
     {
-      videoURL: "lBICLteuQs8",
+      videoURL: "lBICLteuQs8"
     },
     // Po pi po
     {
-      videoURL: "T0-2lzA7_Cg",
+      videoURL: "T0-2lzA7_Cg"
     },
     // Squidward suicide
     {
-      videoURL: "m_TXgsFsh8g",
+      videoURL: "m_TXgsFsh8g"
     },
     // Potato knishes
     {
-      videoURL: "IFfLCuHSZ-U",
+      videoURL: "IFfLCuHSZ-U"
     },
     // Late for meeting
     {
-      videoURL: "wBqM2ytqHY4",
+      videoURL: "wBqM2ytqHY4"
     },
     // Johny Johny Yes papa
     {
-      videoURL: "wR4XU7VFllWE",
+      videoURL: "wR4XU7VFllWE"
     },
     // storytime
     {
-      videoURL: "13HtcK59CfE",
+      videoURL: "13HtcK59CfE"
     },
     // screaming fit
     {
-      videoURL: "9FUSIib5Krg",
+      videoURL: "9FUSIib5Krg"
     },
     // where is the bathroom
     {
-      videoURL: "67jyA59UGN0",
+      videoURL: "67jyA59UGN0"
     },
     // trans vaginal
     {
-      videoURL: "Jp7tWpK95Jc",
+      videoURL: "Jp7tWpK95Jc"
     },
     // pizza face
     {
-      videoURL: "FosLYAZ3pn0",
+      videoURL: "FosLYAZ3pn0"
     },
     // pizza sex
     {
-      videoURL: "kCn3eL99G4o",
+      videoURL: "kCn3eL99G4o"
     },
     // kiss papa's mustache
     {
-      videoURL: "5yhj3kFiRE0",
+      videoURL: "5yhj3kFiRE0"
     },
     // i me love you god
     {
-      videoURL: "5n2BOnagofBc",
+      videoURL: "5n2BOnagofBc"
     },
     // saving paul
     {
-      videoURL: "O-oQ5CueyLY",
+      videoURL: "O-oQ5CueyLY"
     },
     // chips
     {
-      videoURL: "rUZ2933vAkc",
+      videoURL: "rUZ2933vAkc"
     },
     // skrillex
     {
-      videoURL: "XMrzDxMdcAM",
+      videoURL: "XMrzDxMdcAM"
     },
     // communist nazis from mars
     {
-      videoURL: "GMv5Mz8qK-c",
+      videoURL: "GMv5Mz8qK-c"
     },
     // sweetie
     {
-      videoURL: "-pCgfJOnszs",
+      videoURL: "-pCgfJOnszs"
     },
     // mitt romney with a tiny face
     {
-      videoURL: "WEymNcIHpvc",
+      videoURL: "WEymNcIHpvc"
     },
     // KIGN OFF DA HIL
     {
-      videoURL: "xkDl-piO3Qc",
+      videoURL: "xkDl-piO3Qc"
     },
     // animeweeblord420
     {
-      videoURL: "MwmJFfruFpg",
+      videoURL: "MwmJFfruFpg"
     },
     // first kiss
     {
-      videoURL: "yKmjrGC_ugQ",
+      videoURL: "yKmjrGC_ugQ"
     },
     // my girlfriend sucked 37 dicks
     {
-      videoURL: "UfpVY_ZHGDg",
+      videoURL: "UfpVY_ZHGDg"
     },
     // one minute puberty
     {
-      videoURL: "fpVY_ZHGDg",
+      videoURL: "fpVY_ZHGDg"
     },
     // guy catches laptop with his butt
     {
-      videoURL: "oiNaadVOQEM",
+      videoURL: "oiNaadVOQEM"
     },
     // hank twerk
     {
-      videoURL: "51delDxcPKY",
+      videoURL: "51delDxcPKY"
     },
     // congratulations! 15 minutes
     {
-      videoURL: "k7WyJ8CQl9I",
+      videoURL: "k7WyJ8CQl9I"
     },
     // clurds
     {
-      videoURL: "lXDF_0bVpP4",
+      videoURL: "lXDF_0bVpP4"
     },
     // a normal anime for normal people
     {
-      videoURL: "s7PNkApZrFM",
+      videoURL: "s7PNkApZrFM"
     },
     // toothbrush innuendo
     {
-      videoURL: "B1jY7BLQVMc",
+      videoURL: "B1jY7BLQVMc"
     },
     // breaking news
     {
-      videoURL: "a4Oe2aY4G6A",
+      videoURL: "a4Oe2aY4G6A"
     },
     // tight sliz
     {
-      videoURL: "M6_VJjBo7B8",
+      videoURL: "M6_VJjBo7B8"
     },
     // varigrip
     {
-      videoURL: "kyuNuxaKBD8",
+      videoURL: "kyuNuxaKBD8"
     },
     // adult toys
     {
-      videoURL: "E2_g306CH8Y",
+      videoURL: "E2_g306CH8Y"
     },
     // caillou edits wikipedia
     {
-      videoURL: "E-2NTI7Vbiro",
+      videoURL: "E-2NTI7Vbiro"
     },
     // let me hear your war cry
     {
-      videoURL: "fgOaT4xzdvo",
+      videoURL: "fgOaT4xzdvo"
     },
     // lady gaga ft. jim carrey
     {
-      videoURL: "XYYo3T6nCw8",
+      videoURL: "XYYo3T6nCw8"
     },
     // THERE IS BEAR CUM
     {
-      videoURL: "OYa3V7GIizI",
+      videoURL: "OYa3V7GIizI"
     },
     // rock hard cock
     {
-      videoURL: "RsM2ZbQtulM",
+      videoURL: "RsM2ZbQtulM"
     },
     // obey the walrus
     {
-      videoURL: "8vBWmV5sjMA",
+      videoURL: "8vBWmV5sjMA"
     },
     // gameboy camera man dancing
     {
-      videoURL: "62PYpu5tFwU",
+      videoURL: "62PYpu5tFwU"
     },
     // shower in jail
     {
-      videoURL: "ZO7-QJGVdM4",
+      videoURL: "ZO7-QJGVdM4"
     },
     // tutoring with barney
     {
-      videoURL: "8Y1t6StGxns",
+      videoURL: "8Y1t6StGxns"
     },
     // pedobear song
     {
-      videoURL: "GAHfZNPoLW0",
+      videoURL: "GAHfZNPoLW0"
     },
     // wrecking ball in g major
     {
-      videoURL: "45lB-fyB87Y",
+      videoURL: "45lB-fyB87Y"
     },
     // little baby's ice cream
     {
-      videoURL: "erh2ngRZxs0",
+      videoURL: "erh2ngRZxs0"
     },
     // mouse fan club
     {
-      videoURL: "YVEY24ieq08",
+      videoURL: "YVEY24ieq08"
     },
     // bounce by the ounce
     {
-      videoURL: "KZXSM_6m7hU",
+      videoURL: "KZXSM_6m7hU"
     },
     // gimme pizza slow
     {
-      videoURL: "wusGIl3v044",
+      videoURL: "wusGIl3v044"
     },
     // shrek is love, shrek is life
     {
-      videoURL: "wqBmANITOhg",
+      videoURL: "wqBmANITOhg"
     },
     // my anus is bleeding
     {
-      videoURL: "6M17aG_Po2Y",
+      videoURL: "6M17aG_Po2Y"
     },
     // too many cooks
     {
-      videoURL: "QrGrOK8oZG8",
+      videoURL: "QrGrOK8oZG8"
     },
     // sheep rapping about god
     {
-      videoURL: "Vri6CPDJfKo",
+      videoURL: "Vri6CPDJfKo"
     },
     // mexican music video
     {
-      videoURL: "x47NYUbtYb0",
+      videoURL: "x47NYUbtYb0"
     },
     // coco magic school bus
     {
-      videoURL: "_8kCaz74M7A",
+      videoURL: "_8kCaz74M7A"
     },
     // anus writes a letter
     {
-      videoURL: "VYz1yVg9L_I",
+      videoURL: "VYz1yVg9L_I"
     },
     // Gaben remixed
     {
-      videoURL: "mSr2FgbvUkE",
+      videoURL: "mSr2FgbvUkE"
+    },
+    // 7th dimension
+    {
+      videoURL: "O_JrCU8F-vs"
+    },
+    // All Star the Office
+    {
+      videoURL: "jWZz3UetNPA"
+    },
+    // Johnny Dee singing
+    {
+      videoURL: "VMkHFC_c2xs"
     }
   ];
 
