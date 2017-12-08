@@ -730,7 +730,7 @@ function app() {
   });
 
   // YouTube API
-  $.mbYTPlayer.apiKey = "AIzaSyBqh9H3prYOQFbpeoWbkPKsq25n7y3LnCo";
+  $.mbYTPlayer.apiKey = "AIzaSyBL2WJlIZNDJFcDUdoAqS24YPizdKkKNUM";
 
   // Initialize player
   $("#player").YTPlaylist(videos, true);
