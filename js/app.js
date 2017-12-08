@@ -731,6 +731,7 @@ function app() {
     element.quality = "large";
     element.showYTLogo = false;
     element.vol = 100;
+    element.anchor = 'top,center';
   });
 
   // YouTube API
