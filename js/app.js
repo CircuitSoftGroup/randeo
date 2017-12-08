@@ -721,9 +721,14 @@ function app() {
 
   // Add Randeo defaults to playlist
   videos.forEach(element => {
+    element.autoPlay = true;
     element.showControls = false;
     element.stopMovieOnBlur = false;
     element.loop = false;
+    element.mute = false;
+    element.startAt = 0;
+    element.opacity = 1;
+    element.quality = "large";
     element.showYTLogo = false;
     element.vol = 100;
   });
