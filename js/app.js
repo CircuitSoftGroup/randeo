@@ -753,6 +753,8 @@ function app() {
     $('.card-title').html(e.prop.title);
     $('.card-link').html("https://youtu.be/" + e.prop.id);
     $('.card-link').attr("href", "https://youtu.be/" + e.prop.id);
+    // Make next video visible
+    document.getElementById('iframe_player').setAttribute('style', 'position: absolute; z-index: 0; width: 1058px; height: 595px; top: 0px; left: 0px; overflow: hidden; opacity: 1; -moz-user-select: none; margin-top: 0px; margin-left: -49px; max-width: initial;')
   });
 
   // Pause button
