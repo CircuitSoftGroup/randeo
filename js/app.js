@@ -725,10 +725,7 @@ function app() {
     element.stopMovieOnBlur = false;
     element.loop = false;
     element.showYTLogo = false;
-    element.gaTrack = false;
     element.vol = 100;
-    fadeOnStartTime: 0;
-    anchor = 'top,center';
   });
 
   // YouTube API
