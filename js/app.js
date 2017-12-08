@@ -738,6 +738,14 @@ function app() {
   // Get player reference
   var video = $("#player").YTPlayer();
 
+  document.getElementById("prev").addEventListener('click', function() {
+    video.YTPPlayPrev();
+  });
+
+  document.getElementById("next").addEventListener('click', function() {
+    video.YTPPlayNext();
+  });
+
   // Update card for video
   video.on("YTPData", function(e) {
     $('.card-img-top').attr("src", e.prop.thumb_medium);
