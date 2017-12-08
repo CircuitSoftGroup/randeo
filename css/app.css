@@ -5,6 +5,11 @@
 }
 
 /* Element styles */
+/* Body */
+body {
+    background-color: #000
+}
+
 /* Player */
 .player {
     background-size: cover;
@@ -12,7 +17,12 @@
     height: 100vh
 }
 
-/* Dropdown */
+/* Dropdown button */
+.nav-link {
+    text-shadow: 0 0 5px #000;
+}
+
+/* Dropdown menu */
 #navbarDropdownMenuLink {
     color: rgba(207, 216, 220, 0.7)
 }
