@@ -727,6 +727,8 @@ function app() {
     element.showYTLogo = false;
     element.gaTrack = false;
     element.vol = 100;
+    fadeOnStartTime: 0;
+    anchor = 'top,center';
   });
 
   // YouTube API
@@ -736,7 +738,7 @@ function app() {
   $("#player").YTPlaylist(videos, true);
 
   // Get player reference
-  var video = $("#player").YTPlayer();
+  var video = $("#player");
 
   document.getElementById("prev").addEventListener('click', function() {
     video.YTPPlayPrev();
