@@ -732,10 +732,7 @@ function app() {
   $.mbYTPlayer.apiKey = "AIzaSyBL2WJlIZNDJFcDUdoAqS24YPizdKkKNUM";
 
   // Initialize player
-  $("#player").YTPlaylist(videos, true);
-
-  // Get player reference
-  var video = $("#player");
+  var video = $("#player").YTPlaylist(videos, true, function(ignored) {});
 
   document.getElementById("prev").addEventListener('click', function() {
     video.YTPPlayPrev();
